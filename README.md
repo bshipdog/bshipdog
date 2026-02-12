@@ -19,22 +19,38 @@ To involve the students in an activity, our team, the A TEAM, was asked to provi
 To reduce the time and effort invested into the project, we initially bought the games from amazon, lengthened the wires from the ring to the base.  We also wanted the wire in the form of the TMAC logo for some swagger.  I used 3mm copper wire and created a jig to bend the wires specified by a drawing with offsets added for the corner radii.  After assembling it all together, the arm was then taught more than 50 waypoints to guide the ring around the wire maze.  During transportation to the event however, the formed wire was bent from when the waypoints were taught and we had to reteach all of the point before the students arrived.  2 things were learned from the event: the students loved it and many students tried to come back to face the robot again, and the system was not tolerant to transportation and small misalignments.
 
 To combat the issues of misalignment, we devised a solution consisting of: abandoning copper for a water-jetted aluminum TMAC logo and a 3D printed base consisting of slots for the aluminum logo, support risers for the long sections of the logo, and reference points for the robotic arm.
+
+work in progress, check in soon to see updates to this section
+
 ### Banner Training
+work in progress, check in soon to see updates to this section
+
 ### Amatrol Training
+work in progress, check in soon to see updates to this section
+
 ### Machine Tending
+work in progress, check in soon to see updates to this section
 
 ## Research (UTARI)
+work in progress, check in soon to see updates to this section
 
 ## Academic
 ### Capstone (3DPAC)
+work in progress, check in soon to see updates to this section
 ### Blender Bottle (Intro to Manufacturing)
+work in progress, check in soon to see updates to this section
 ### Ball Balancer (Intro to Mechatronics)
+work in progress, check in soon to see updates to this section
 ### Trebuchet (Intro to Engineering Design)
+work in progress, check in soon to see updates to this section
 
 ## Personal Projects
 ### 6-DOF Cobot MonteCarlo Analysis
+work in progress, check in soon to see updates to this section
 ### Maypole Braiding Machine
+work in progress, check in soon to see updates to this section
 ### L1/L2 Rocket & teensy_bird
+work in progress, check in soon to see updates to this section
 
 ## Past Projects
 ### 
